@@ -1,0 +1,19 @@
+{
+  "name": "fof",
+  "version": "0.0.1",
+  "description": "Vincent Chov's documentation site for the Foundations of Fabrication 2021",
+  "main": "index.js",
+  "authors": {
+    "name": "Vincent Chov",
+    "email": "vincent.chov@uconn.edu"
+  },
+  "repository": "https://github.com/vincentchov/fof.git",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
