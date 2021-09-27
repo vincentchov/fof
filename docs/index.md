@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: /favicon.svg
 tagline: Vincent Chov's documentation site for the Foundations of Fabrication
 actionText: Quick Start →
 actionLink: /guide/
