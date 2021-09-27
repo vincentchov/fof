@@ -34,6 +34,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'Home',
+        link: '/',
+      },
+      {
         text: 'Guide',
         link: '/guide/',
       },
