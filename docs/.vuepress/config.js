@@ -38,8 +38,8 @@ module.exports = {
         link: '/',
       },
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Blog',
+        link: '/blog/',
       },
       {
         text: 'Config',
@@ -51,9 +51,9 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/blog/': [
         {
-          title: 'Guide',
+          title: 'Blog',
           collapsable: false,
           children: [
             '',
