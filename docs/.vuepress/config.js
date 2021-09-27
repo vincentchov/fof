@@ -53,7 +53,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'unit-1-web-doc-and-inkscape',
           ]
         }
       ],
