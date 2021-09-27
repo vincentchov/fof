@@ -42,13 +42,9 @@ module.exports = {
         link: '/blog/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'About',
+        link: '/about/',
       },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
     ],
     sidebar: {
       '/blog/': [
