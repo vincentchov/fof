@@ -23,14 +23,29 @@ I got a head start on badging earlier this month, so the list of badges I got is
 ## How I chose what to get badged on and how it went
 I did some woodworking at home earlier this year, but ended-up spinning my wheels a lot as I tried to  compensate for both the high lumber prices (by reducing my reliance on S4S lumber), and the number of tools and jigs advertised on YouTube that I simply didn't have the budget nor the space for (I'm looking at you, jointer and planer).
 
+<figure>
+  <img src="https://www.makehaven.org/sites/default/files/20200915_143235.jpg"></img>
+
+  <figcaption><p>Yeah, we're going to need a bigger trunk. (Credit: MakeHaven)</p></figcaption>
+</figure>
+
 Because I had some experience with some tools, I wanted to prioritize badging on tools that I either knew very little about, haven't used yet, and/or ones that could make tools and jigs that I already knew I wanted.
 
-## How it went
-[Add pictures of jointer and planer here]
-[Caption: does the ~~chicken~~ jointer come before the ~~egg~~ planer?]
+<figure>
+  <img src="https://www.makehaven.org/sites/default/files/20180803_113613.jpg"></img>
+
+  <figcaption><p>Does the <span><s>chicken</s></span> jointer come before the <span><s>egg</s></span> planer? (Credit: MakeHaven)</p></figcaption>
+</figure>
+
 Naturally, because I wanted to be able to square up boards and didn't have an arm and a [table] leg to spare for a jointer and thickness planer, I prioritized those. I still wanted to be able to prepare lumber at home (and avoid catching COVID), meaning I'd also have to find a way to save space.  That got me interested in hand planes since they're so common, a ton of them are really old and I remembered they were really cheap when I grew up.
 
 I learned how to haggle but found out quickly that prices for hand planes (even beat-up vintage ones!) have been significantly inflated. I decided that if I couldn't find a large, affordable hand plane, I'd have to make a wooden one by scavenging parts off-of a cheaper, smaller plane. But to make a plane, I still needed to be able to joint and plane the parts first.  There was no way getting around it.
+
+<figure>
+  <img src="./unit-2/rusty_plane.jpg"></img>
+
+  <figcaption><p>Yeah, this isn't going to be ready to use for a while.</p></figcaption>
+</figure>
 
 The Shapeoko CNC would be really useful for making router templates and shapes that I couldn't easily do myself.  In creating router templates, I could have a portable way of storing copies of things I wanted to make, in case I ever broke something. I'm still learning about the Shapeoko since it had issues when I badged on it and it has since been upgraded.
 
@@ -38,7 +53,11 @@ Once I got my hand on some templates, I'd be able to use them on a router and/or
 
 Skipping forward, I got badged on the Wood Lathe, but I'm still gaining confidence here and knew nothing about the lathe before watching the badging video.  I'll definitely want more guidance and practice on this before I start using it on my own.
 
-[Picture of nuclear explosion]
+<figure>
+  <img src="https://cdn.pixabay.com/photo/2015/10/29/05/39/atomic-bomb-1011738_960_720.jpg"></img>
+
+  <figcaption><p>What I thought was going to happen after using the wood lathe. (Credit: Pixabay)</p></figcaption>
+</figure>
 
 ## Conclusion
 All in all, I'm looking forward to getting more shop time with the new equipment.  There's a ton of projects I want to get done and not enough time to do them all, so we'll see what I'll make by next week.
