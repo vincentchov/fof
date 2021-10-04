@@ -55,6 +55,7 @@ module.exports = {
           children: [
             '',
             'unit-1-web-doc-and-inkscape',
+            'unit-2.1-woodworking',
           ]
         }
       ],

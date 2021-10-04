@@ -1,17 +1,44 @@
 # Unit 2.1: Woodworking
+This week (2021-09-27) we started the first half of Unit 2, Woodworking.  There's so much equipment to learn about to get started with woodworking that we were asked to spend this week getting badged to use as much equipment as possible.  We didn't need to have any project ideas just yet, but if we were to have project ideas, we could prioritize learning about equipment that would work with those projects.
 
-For our first unit of the Foundations of Fabrication class at MakeHaven, we needed set up a documentation website and learn the basics of Inkscape to make a logo for the site. I decided to start with the logo since I'm fairly new to graphic design.
+## Why did I get interested in Woodworking to begin with?
+I got interested in woodworking for two main reasons: 
+* to make beautiful, affordable, and practical knockdown/ready-to-assemble (RTA) furniture that I could pack flat and carry myself whenever I move from one apartment to another.  In making the furniture disassembable, I can replace parts as-needed if my pet rabbit Hoppy chews up parts of them.  I'd imagine that I'd have to worry less about him eating my table legs once I get better at metalworking, though.
+* to make chew toys and furniture for Hoppy that I can know is safe (because I'd know what kind of wood was used)
 
-## Inkscape
-Rabbits are my favorite animal, so I decided to make the website personalized to me by using a rabbit logo.
+## TL;DR: What I got badged on (in no particular order)
+I got a head start on badging earlier this month, so the list of badges I got is much longer than it would have been had I only gotten badged this past week.  Here's the list, in no particular order of when I got them:
+* Jointer
+* Thickness Planer
+* Tormek Blade Sharpener
+* Hand Tools Badge
+* Router Table
+* Shapeoko CNC
+* Table saw
+* Band saw 
+* Electric Hand Planer
+* Belt/Spindle Sander
+* Compound Miter Saw
 
-It quickly dawned on me that I wasn't going to be able (not easily anyway) to draw a vector logo of a rabbit using basic shapes. I wasn't sure what else I would want to use as a logo that would be specific to me.  After all, a lot of the things I'm learning how to make are intended to help me take care of my pet bunny, Hoppy.  I'd need some way to trace an existing image and/or convert it to a vector. If I'm going to trace an image, what's a better image than a photo of Hoppy?
+## How I chose what to get badged on
+I did some woodworking at home earlier this year, but ended-up spinning my wheels a lot as I tried to  compensate for both the high lumber prices (by reducing my reliance on S4S lumber), and the number of tools and jigs advertised on YouTube that I simply didn't have the budget nor the space for (I'm looking at you, jointer and planer).
 
-At first, I thought that this was side-stepping the point of learning Inkscape, but then I remembered that the goal here wasn't specifically to draw shapes from scratch, but to use Inkscape in general. Moreover, the logo would be based on a photo that I took myself, so the tracing is original.
+Because I had some experience with some tools, I wanted to prioritize badging on tools that I either knew very little about, haven't used yet, and/or ones that could make tools and jigs that I already knew I wanted.
 
-After watching some videos from "Logos by Nick" on YouTube, I went ahead and used GIMP to take a sketch I had of Hoppy and make everything but his silhouette transparent. That would make it a little easier for me to trace.  After a few minutes of using Inkscape's bezier curves to trace, I used "object to path" to vectorize the tracing the I made. I'd want to clean up the logo a bit and change the colors, but I'm pretty happy with this first attempt.
+## How it went
+[Add pictures of jointer and planer here]
+[Caption: does the ~~chicken~~ jointer come before the ~~egg~~ planer?]
+Naturally, because I wanted to be able to square up boards and didn't have an arm and a [table] leg to spare for a jointer and thickness planer, I prioritized those. I still wanted to be able to prepare lumber at home (and avoid catching COVID), meaning I'd also have to find a way to save space.  That got me interested in hand planes since they're so common, a ton of them are really old and I remembered they were really cheap when I grew up.
 
-## Website
-I decided on using VuePress to make the website, and that I'd host it on GitHub Pages, but due to some issues related to DNS, I decided to host the website on Netlify for now. Because of GitHub Pages' repo size limit, I'd have to keep the website under 1GB, but that's not a problem since I don't intend to host videos on the website.
+I learned how to haggle but found out quickly that prices for hand planes (even beat-up vintage ones!) have been significantly inflated. I decided that if I couldn't find a large, affordable hand plane, I'd have to make a wooden one by scavenging parts off-of a cheaper, smaller plane. But to make a plane, I still needed to be able to joint and plane the parts first.  There was no way getting around it.
 
-As I accumulate more images, I'll need to host them somewhere else, like Flickr. Then again, you know what Homer Simpson said: "That's a problem for future [me]. Man I don't envy that guy." ¯\\_(ツ)_/¯
+The Shapeoko CNC would be really useful for making router templates and shapes that I couldn't easily do myself.  In creating router templates, I could have a portable way of storing copies of things I wanted to make, in case I ever broke something. I'm still learning about the Shapeoko since it had issues when I badged on it and it has since been upgraded.
+
+Once I got my hand on some templates, I'd be able to use them on a router and/or router table. I went with a router table since I haven't used one before.
+
+Skipping forward, I got badged on the Wood Lathe, but I'm still gaining confidence here and knew nothing about the lathe before watching the badging video.  I'll definitely want more guidance and practice on this before I start using it on my own.
+
+[Picture of nuclear explosion]
+
+## Conclusion
+All in all, I'm looking forward to getting more shop time with the new equipment.  There's a ton of projects I want to get done and not enough time to do them all, so we'll see what I'll make by next week.
