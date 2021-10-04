@@ -3,7 +3,12 @@ sidebar: false
 ---
 
 # About Me
-![Me](./me.png)
+<figure>
+  <img src="./me.png"></img>
+
+  <figcaption align="center">Vincent Chov</figcaption>
+</figure>
+
 Hi! I'm Vincent Chov. Some of my friends call me Vince.
 
 I'm a Software Engineer who graduated in 2017 from the University of
