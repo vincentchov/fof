@@ -3,6 +3,7 @@ sidebar: false
 ---
 
 # About Me
+![Me](./me.png)
 Hi! I'm Vincent Chov. Some of my friends call me Vince.
 
 I'm a Software Engineer who graduated in 2017 from the University of
