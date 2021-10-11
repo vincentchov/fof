@@ -21,7 +21,7 @@ Making the panel/top out of 1"x4" poplar went pretty well. I initially had issue
 <figure>
   <img src="./unit-2/top_second_attempt.jpg"></img>
 
-  <figcaption><p>The turned out much flatter and the edges fit much better</p></figcaption>
+  <figcaption><p>The panel turned out much flatter and the edges of each board fit much better</p></figcaption>
 </figure>
 
 <figure>
