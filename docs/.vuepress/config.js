@@ -56,6 +56,7 @@ module.exports = {
             '',
             'unit-1-web-doc-and-inkscape',
             'unit-2.1-woodworking',
+            'unit-2.2-woodworking-project',
           ]
         }
       ],
