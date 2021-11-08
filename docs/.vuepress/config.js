@@ -59,6 +59,7 @@ module.exports = {
             'unit-2.2-woodworking-project',
             'unit-3.1-metalworking',
             'unit-3.2-metalworking',
+            'unit-4-textiles',
           ]
         }
       ],
