@@ -60,6 +60,7 @@ module.exports = {
             'unit-3.1-metalworking',
             'unit-3.2-metalworking',
             'unit-4-textiles',
+            'unit-5-electronics',
           ]
         }
       ],
